@@ -1,0 +1,6 @@
+{
+  "name": "أسماء الله الحسنى للأطفال",
+  "description": "لعبة تعليمية تفاعلية وممتعة لتعليم الأطفال معاني أسماء الله الحسنى من خلال مطابقة المعنى المبسط مع الاسم الصحيح من بين 3 خيارات.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
